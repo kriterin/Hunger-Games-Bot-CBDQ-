@@ -1,10 +1,10 @@
 {
-  "origin":[ //main events for the bots
+  "origin":[ //main events for the bots. This is where it all starts. to create another data type/variable, please make sure there's a comma between the left facing squared bracket if you want to create one
 "#Character# grabs #Weapon#",
       "#Character# runs away from the cornucopia",
       "#Character# and #Character# fight for a piece of bread. ",
       "#Character# grabs the #Weapon#",
-      "Mr.Krabs{img https://i.imgur.com/3Lr2pbn.png}mistakes a bomb that was set up by #Character# as money and blows up to his death",
+      "Mr.Krabs{img https://i.imgur.com/3Lr2pbn.png}mistakes a bomb that was set up by #Character# as money and blows up to his death", // mr krabs dies haha
       "#Character# Runs away from the cornucopia",
       "#Character# and #Character# fight for a piece of bread.",
       "#Character# Becomes friends with #Character# and they team up together",
@@ -138,7 +138,7 @@
 
 
    ],
-   "Character" : [ //the ENTIRE character list
+   "Character" : [ //the ENTIRE character list, plus I highly recommend to use Imgur for the characters' image link
 "Mario{img https://i.imgur.com/1ITymTh.jpg}",
 "Walter White{img https://tinyurl.com/9vhwrfnb}",
 "Barney Calhoun{img https://i.imgur.com/e6ZgtZu.png}",
@@ -443,7 +443,7 @@
       "Drinks",
       "Weapons"
    ],
-   "Weapon":[ //probability for melee weapons, this doesn't have rarity unlike in Death Battle bot
+   "Weapon":[ //probability for melee weapons for characters to fight, this doesn't have rarity unlike in Death Battle bot
       "a Comically Large spoon{img https://tinyurl.com/4nstbsjh}",
       "a Rock{img https://i.imgur.com/OuDNjkM.jpg}",
       "Anti-Horny bat{img https://tinyurl.com/9xw99wh2}",
